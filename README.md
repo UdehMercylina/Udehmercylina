@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Udeh Mercylina Eyaofun!
 
-<img src="[https://img.freepik.com/premium-photo/abstract-background-with-dots-lines-connection-concept-digital-data-visualization_1096192-9110.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NuaXo1M3FsYWZ0dHNuZnhnbGdyaGxmcnN1MXQyMnExOHRkNzk2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMNTpz8txJ6tmkTp7Q/giphy.gif)" alt="Data Flow Banner" width="100%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NuaXo1M3FsYWZ0dHNuZnhnbGdyaGxmcnN1MXQyMnExOHRkNzk2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMNTpz8txJ6tmkTp7Q/giphy.gif" alt="Data Flow Banner" width="100%"/>
 
 **Web Developer | Backend Engineer | Blockchain Enthusiast | Aspiring Data Engineer** 🚀
 
